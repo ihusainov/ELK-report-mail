@@ -1,6 +1,6 @@
 #!/bin/bash
 ###########
-# Author: Artem Tumanov and Ildar Khusyainov
+# Author: Ildar Khusyainov
 # 
 # Description: This Script Create Report In Kibana Dashboard, then download csv and sent it via email
 ###########
